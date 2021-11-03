@@ -1,0 +1,14 @@
+C:\Users\ADMIN\source\repos\project_05\project_05\bin\Debug\project_05.exe.config
+C:\Users\ADMIN\source\repos\project_05\project_05\bin\Debug\project_05.exe
+C:\Users\ADMIN\source\repos\project_05\project_05\bin\Debug\project_05.pdb
+C:\Users\ADMIN\source\repos\project_05\project_05\obj\Debug\project_05.Form1.resources
+C:\Users\ADMIN\source\repos\project_05\project_05\obj\Debug\project_05.Form2.resources
+C:\Users\ADMIN\source\repos\project_05\project_05\obj\Debug\project_05.Properties.Resources.resources
+C:\Users\ADMIN\source\repos\project_05\project_05\obj\Debug\project_05.csproj.GenerateResource.cache
+C:\Users\ADMIN\source\repos\project_05\project_05\obj\Debug\project_05.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\project_05\project_05\obj\Debug\project_05.exe
+C:\Users\ADMIN\source\repos\project_05\project_05\obj\Debug\project_05.pdb
+C:\Users\ADMIN\source\repos\project_05\project_05\obj\Debug\GuessTheWord.Form6.resources
+C:\Users\ADMIN\source\repos\project_05\project_05\obj\Debug\project_05.Form3.resources
+C:\Users\ADMIN\source\repos\project_05\project_05\obj\Debug\project_05.Form4.resources
+C:\Users\ADMIN\source\repos\project_05\project_05\obj\Debug\project_05.csproj.AssemblyReference.cache
